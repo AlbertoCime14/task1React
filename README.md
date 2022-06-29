@@ -1,10 +1,7 @@
 <!-- ABOUT THE PROJECT -->
-## Task 1
+## Task 1 -Alberto Cime
 
 
-
-
-Here's why:
 * 1 Using your recently acquired abilities (from the past week training) in HTML and CSS create a webpage 
 using the following format. Be sure to include information related to your previous job or work 
 experience
